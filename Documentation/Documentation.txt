@@ -22,25 +22,3 @@ We have the technical, user, project and process documentations:
 		a - Operational Procedures: work flux
 		b - Security and Safety Policy: Guidelines for data protection
 		c - Contingency Plan: Strategies for emergencies.
-
-The Documentation in IT brings benefits as a better understanding and clarity of the functions of the system, reduction of errors and less problems originated from the lack of information, easier maintenance once there will be faster updates, more efficiency when training new developers once they will have faster comprehension of the project, the knowledge keeps preserved and shared around.
-
-
-
-Ferramentas de documentação populares
-
-1. Doxygen: Geração automática de documentação.
-2. Javadoc: Documentação de código Java.
-3. Markdown: Formatação simples para textos.
-4. Confluence: Plataforma de colaboração.
-5. Swagger: Documentação de APIs.
-
-
-
-Boas práticas
-
-1. Atualize regularmente: Mantenha a documentação atualizada.
-2. Seja conciso: Evite informações desnecessárias.
-3. Use linguagem clara: Evite jargão técnico.
-4. Inclua exemplos: Ilustre conceitos com exemplos.
-5. Revisite periodicamente: Verifique precisão e relevância.
