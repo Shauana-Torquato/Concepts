@@ -1,0 +1,46 @@
+
+The Documentation is about the written, visual and/or audiovisual registers that will describe the development, running, usage and maintaining of a system, infrastructure, etc.
+
+We have the technical, user, project and process documentations:
+
+	1 - Technical Documentation:
+		a - Source code: add comments to explain the functionalities of the code
+		b - API Documentation: it's the descriptions of the methods, parameters and answers in an application programming interface
+		c - technical specification: tells the details of the implementing, architecture and design
+
+	2 - User Documentation:
+		a - User book: Instructions about how to operate the system
+		b - Installation guide: Instructions about how to install and configure the system
+		c - FAQ - often questions and common answers
+
+	3 - Project Documentation:
+		a - Project Plan: Objectives, project schedule, resources, risks
+		b - Progress Report: periodical updates
+		c - Requirements Documentation: specification of the needs (needed elements, functions...)
+
+	4 - Process Documentation:
+		a - Operational Procedures: work flux
+		b - Security and Safety Policy: Guidelines for data protection
+		c - Contingency Plan: Strategies for emergencies.
+
+The Documentation in IT brings benefits as a better understanding and clarity of the functions of the system, reduction of errors and less problems originated from the lack of information, easier maintenance once there will be faster updates, more efficiency when training new developers once they will have faster comprehension of the project, the knowledge keeps preserved and shared around.
+
+
+
+Ferramentas de documentação populares
+
+1. Doxygen: Geração automática de documentação.
+2. Javadoc: Documentação de código Java.
+3. Markdown: Formatação simples para textos.
+4. Confluence: Plataforma de colaboração.
+5. Swagger: Documentação de APIs.
+
+
+
+Boas práticas
+
+1. Atualize regularmente: Mantenha a documentação atualizada.
+2. Seja conciso: Evite informações desnecessárias.
+3. Use linguagem clara: Evite jargão técnico.
+4. Inclua exemplos: Ilustre conceitos com exemplos.
+5. Revisite periodicamente: Verifique precisão e relevância.
