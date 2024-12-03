@@ -13,6 +13,6 @@ function popularTools() {
 
 function goodPractices() {
     const good_Practice = document.getElementById ('good_practices');
-        popular_Tool.innerHTML = '<ol><li><strong>Update regularly:</strong> Keep documentation up to date.</li><li><strong>Be concise:</strong> Avoid unnecessary information.</li><li><strong>Use clear language:</strong> Avoid technical jargon.</li><li><strong>Include examples:</strong>Illustrate concepts with examples</li><li><strong>Revisit periodically:</strong> Check accuracy and relevance.</li></ol>';
+        good_Practice.innerHTML = '<ol><li><strong>Update regularly:</strong> Keep documentation up to date.</li><li><strong>Be concise:</strong> Avoid unnecessary information.</li><li><strong>Use clear language:</strong> Avoid technical jargon.</li><li><strong>Include examples:</strong>Illustrate concepts with examples</li><li><strong>Revisit periodically:</strong> Check accuracy and relevance.</li></ol>';
     
 }
