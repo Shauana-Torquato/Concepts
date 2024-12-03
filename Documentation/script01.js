@@ -6,8 +6,13 @@ function showTypes() {
 }
 
 function popularTools() {
-    const popular_Tools = document.getElementById ('popular_tools');
-        popular_Tools.innerHTML = '<ol><li><strong>Doxygen:</strong> automatic generation of documentation</li><li><strong>Javadoc:</strong> documentation of a JAVA code</li><li><strong>Markdown:</strong> simple formatation for texts</li><li><strong>Confluence:</strong> platforma for colaborative work/contribution</li><li><strong>Swagger:</strong> documentation for APIs</li></ol>';
+    const popular_Tool = document.getElementById ('popular_tools');
+        popular_Tool.innerHTML = '<ol><li><strong>Doxygen:</strong> automatic generation of documentation</li><li><strong>Javadoc:</strong> documentation of a JAVA code</li><li><strong>Markdown:</strong> simple formatation for texts</li><li><strong>Confluence:</strong> platforma for colaborative work/contribution</li><li><strong>Swagger:</strong> documentation for APIs</li></ol>';
                     
 }
 
+function goodPractices() {
+    const good_Practice = document.getElementById ('good_practices');
+        popular_Tool.innerHTML = '<ol><li><strong>Update regularly:</strong> Keep documentation up to date.</li><li><strong>Be concise:</strong> Avoid unnecessary information.</li><li><strong>Use clear language:</strong> Avoid technical jargon.</li><li><strong>Include examples:</strong>Illustrate concepts with examples</li><li><strong>Revisit periodically:</strong> Check accuracy and relevance.</li></ol>';
+    
+}
