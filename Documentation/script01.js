@@ -4,3 +4,10 @@ function showTypes() {
         
 
 }
+
+function popularTools() {
+    const popular_Tools = document.getElementById ('popular_tools');
+        popular_Tools.innerHTML = '<ol><li><strong>Doxygen:</strong> automatic generation of documentation</li><li><strong>Javadoc:</strong> documentation of a JAVA code</li><li><strong>Markdown:</strong> simple formatation for texts</li><li><strong>Confluence:</strong> platforma for colaborative work/contribution</li><li><strong>Swagger:</strong> documentation for APIs</li></ol>';
+                    
+}
+
